@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="fc1_study_record">My Study Record</string>
+    <string name="fc2_find_partner">Find partner to study with!</string>
+</resources>

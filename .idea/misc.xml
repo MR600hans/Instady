@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../../layout/compose-model-1655402403627.xml" value="0.3560606060606061" />
+        <entry key="../../../../../../layout/compose-model-1655402435952.xml" value="0.1" />
+        <entry key="../../../../../layout/compose-model-1655005794413.xml" value="0.23796296296296296" />
+        <entry key="../../../../../layout/compose-model-1655007572265.xml" value="0.165" />
+        <entry key="../../../../../layout/compose-model-1655013721639.xml" value="0.23796296296296296" />
+        <entry key="../../../../../layout/compose-model-1655014004562.xml" value="0.23796296296296296" />
+        <entry key="..\:/Users/USER/Instady/project/app/src/main/res/drawable-v24/ic_google_icon.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Instady/project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Instady/project/app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.1" />
+        <entry key="..\:/Users/USER/Instady/project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_videocam_24.xml" value="0.1285" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
